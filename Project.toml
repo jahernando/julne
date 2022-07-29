@@ -1,0 +1,13 @@
+name = "julne"
+uuid = "e32e60f2-4fdb-4066-9c7d-446c1c27594e"
+authors = ["jahernando <hernando.joseangel@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
